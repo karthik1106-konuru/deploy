@@ -1,0 +1,15 @@
+slice_file_name,class
+sam1.wav,Cpu_Fan_Noise
+sam2.wav,Cpu_Fan_Noise
+sam4.wav,Cpu_Fan_Noise
+sam7.wav,Cpu_Fan_Noise
+sam8.wav,Cpu_Fan_Noise
+sam9.wav,Cpu_Fan_Noise
+sam10.wav,Cpu_Fan_Noise
+sam11.wav,Cpu_Fan_Noise
+sam13.wav,Cpu_Fan_Noise
+ab1.wav,Cpu_Fan_Noise
+ab2.wav,Cpu_Fan_Noise
+rambeep1.wav,Ram_Disconnected_Sound
+rambeep2.wav,Ram_Disconnected_Sound
+rambeep3.wav,Ram_Disconnected_Sound
